@@ -1,0 +1,5 @@
+The most captivating aspect of artificial intelligence for me is the breathtaking speed at which it's advancing. Today, AI has a myriad of practical applications, some of which I'll delve into throughout this article. These include voice simulation, language translation, image generation, animation, image upscaling, 3D model creation, and even more niche tools that may have flown under your radar.
+
+I find it particularly intriguing to ponder the types of problems AI excels at solving—such as translating text by drawing upon vast databases of translated literature—and those it finds more challenging, like generating coherent video sequences from hundreds of individual images. Reflecting on these capabilities offers valuable insights into the trajectory of AI development and allows us to gauge the effectiveness of current tools without direct experience.
+
+As highlighted by AI expert Andrej Karpathy, the current surge in AI innovation can be traced back to the advent of the "transformer" deep learning architecture. This breakthrough marks the beginning of what I consider the modern era of AI—a story that is rapidly unfolding before our eyes.
